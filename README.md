@@ -1,16 +1,48 @@
 ### Hi there 👋
+![Photo](https://pbs.twimg.com/profile_images/1194463393593249792/_e9nGQUS_400x400.jpg)
+---
 
-<!--
-**noufalsalim/noufalsalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile
 
-Here are some ideas to get you started:
+Those who don't know me personally, I am aspiring entrepreneur, working as a applied machine learning and AI developer with an MNC based on Kerala, India. Contributor to [RasaHQ](https://github.com/rasahq), and would like to contribute to opensource projects more going forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currenlty working on 
+
+## NLP related services:
+
+ - Text embedding
+ - Semantic search engine
+ - Chatbot
+ - Machine translation
+ - and other services using transfer learning with NLP...
+
+## Image based services:
+
+ - Image embedding
+ - Image classification
+ - Face recognition
+ - Face identification
+ - object recognition
+
+## Others
+
+ - Indexing and full text search on document
+ - GAN
+ - Speech recognition
+ - and Automating boring stuffs with python
+
+---
+
+Currently learning path include 
+
+ - Front-end and mobile application development with __react__, __flutter__, and __react-native__
+ - GraphQL
+ - Graph Database (neo4j)
+ - tensorflow js
+
+# Connect me at
+
+[Linkedin](https://www.linkedin.com/in/noufal-s-677722b5/)
+[Twitter](https://twitter.com/NoufalSlm/)
+[Facebook](https://www.facebook.com/noufalslm)
+
