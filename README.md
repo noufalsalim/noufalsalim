@@ -1,8 +1,6 @@
 ### Hi there 👋
-![Photo](https://pbs.twimg.com/profile_images/1194463393593249792/_e9nGQUS_400x400.jpg)
----
 
-Welcome to my profile
+#### Welcome to my profile
 
 Those who don't know me personally, I am aspiring entrepreneur, working as a applied machine learning and AI developer with an MNC based on Kerala, India. Contributor to [RasaHQ](https://github.com/rasahq), and would like to contribute to opensource projects more going forward.
 
